@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @VINEETPATEL032
 - 🌱 I’m MERN Stack Web Developer.  
-- 🌱 I’m currently learning Node JS.
-- 💞️ I’m looking to collaborate on FrontEnd Web Project.
+- 💞️ I’m looking to collaborate on MERN Projects.
 - 📫 How to reach me vineet2002patel@gmail.com
 
 <!---
